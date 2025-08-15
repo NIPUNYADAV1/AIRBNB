@@ -293,7 +293,7 @@ const sampleListings = [
       "Explore the vibrant city of Tokyo from this modern and centrally located apartment.",
     image: {
       filename: "listingimage",
-      url: "60https://images.unsplash.com/photo-1480796927426-f609979314bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHRva3lvfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=",
+      url: "https://images.unsplash.com/photo-1480796927426-f609979314bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHRva3lvfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=",
     },
     price: 2000,
     location: "Tokyo",
