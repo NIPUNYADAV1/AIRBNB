@@ -101,3 +101,11 @@
 .card-text{
     font-weight:450 !important;
 }
+#map{
+    height: 400px; 
+    width:400px;
+}
+#placify {
+  color: #fe424d;
+  margin-left: 0.5rem;
+}
